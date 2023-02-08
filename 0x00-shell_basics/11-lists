@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -al
-dirname $PWD
-ls -ld /boot
+ls -ald
